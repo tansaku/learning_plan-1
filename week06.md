@@ -1,4 +1,4 @@
-Week 1
+Week 6
 ======
 
 Most Important Things I Learned:
