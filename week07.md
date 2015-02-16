@@ -1,4 +1,4 @@
-Week 1
+Week 7
 ======
 
 Most Important Things I Learned:
