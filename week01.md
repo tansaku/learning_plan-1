@@ -19,6 +19,7 @@ Changes I Plan to Make Next Week:
 -------------------------------
 
 * Experiment a lot mroe in IRB.
+* Learn more about OOP.
 
 
 Other Experiences This Week:
